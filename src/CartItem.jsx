@@ -85,5 +85,3 @@ const handleDecrement = (item) => {
 };
 
 export default CartItem;
-
-
